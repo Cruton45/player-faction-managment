@@ -1,5 +1,9 @@
 # player-faction-managment
-A character creation menu for gmod starwars rp. Also comes with custom ULX commands that allow people in the same faction to teleport to eachother.
+A character creation menu for gmod starwars rp. Also comes with custom ULX commands that allow people in the same faction to teleport to eachother. 
+
+To install the addon put this in your addons folder. 
+
+To install the fgoto addon, go inside the folder and take out the fgoto folder. Then take out the lua file and put this file in your addons\ulx\lua\ulx\modules\sh folder. Follow the instructions at the top of the fgoto file or it will not work.
 
 Commands Include:
 
